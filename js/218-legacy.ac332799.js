@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunklong_term_care_service"]=self["webpackChunklong_term_care_service"]||[]).push([[218],{4218:function(e,n,r){r.r(n),r.d(n,{default:function(){return _}});var t=function(){var e=this,n=e.$createElement,r=e._self._c||n;return r("div",[e._v("Home")])},l=[],u=r(1001),c={},s=(0,u.Z)(c,t,l,!1,null,null,null),_=s.exports}}]);
+//# sourceMappingURL=218-legacy.ac332799.js.map
